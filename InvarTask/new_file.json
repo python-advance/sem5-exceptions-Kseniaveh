@@ -1,0 +1,16 @@
+{
+    "all_participant": [
+        {
+            "participant_name": "Ksenia",
+            "participant_surname": "Vehov",
+            "participant_age": 20,
+            "participant_email": "ksen@gmail.com"
+        },
+        {
+            "participant_name": "IaIaIa",
+            "participant_surname": "Foool",
+            "participant_age": 10,
+            "participant_email": "iafoool@gmail.com"
+        }
+    ]
+}
