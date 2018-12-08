@@ -1,6 +1,5 @@
 import json
 
-
 """Функция для считывания json- данных из файла"""
 def read_func_file(name_file):
     try:
@@ -12,9 +11,9 @@ def read_func_file(name_file):
     return data
 
 """Cчитывания json- данных с использованием менеджера кнтекстов"""
-#with open(read_file, 'r') as f:
-    #data = json.loads(f.read())
-    #print(data)
+with open(read_file, 'r') as f:
+    data = json.loads(f.read())
+    print(data)
     
     
 """Функция для проверки существует ли файл"""
